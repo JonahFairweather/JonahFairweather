@@ -1,9 +1,9 @@
 Hello! My name is Jonah Fairweather
 
-I am currently studying computer science at McGill university. I am in my second year of studies and really enjoying it!
+I am currently studying computer science at McGill University. I am in my fourth and final year, graduating in May 2024.
 
-I am still constantly finding new and interesting ways to apply my knowledge as well as finding ways to apply new knowledge to old concepts that used to give me lots of trouble.
+I am still constantly finding new and interesting ways to apply my knowledge as well as finding ways to apply new knowledge to old concepts that previously gave me trouble.
 
-Proficient with C, Python, and Java.
+Proficient with C, C#, C++, JavaScript, Python, and Java.
 
 Currently I am learning C# and building games with Unity.
